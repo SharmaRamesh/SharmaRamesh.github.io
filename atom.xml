@@ -5,9 +5,9 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Ramesh Sharma</title>
- <link href="http://sharmaramesh.github.com/atom.xml" rel="self"/>
+ <link href="http://sharmaramesh.github.io/atom.xml" rel="self"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://sharmaramesh.github.com/</id>
+ <id>http://sharmaramesh.github.io/</id>
  <author>
    <name>Ramesh Sharma</name>
    <email>ramesh.sharma@gmail.com</email>
@@ -16,7 +16,7 @@ layout: nil
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://sharmaramesh.github.com/{{ post.url }}"/>
+   <link href="http://sharmaramesh.github.io/{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>http://sharmaramesh.github.com/{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
