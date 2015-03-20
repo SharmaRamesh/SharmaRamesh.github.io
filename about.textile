@@ -1,0 +1,16 @@
+---
+title: About Ramesh Sharma
+layout: master
+---
+
+h2. About Ramesh Sharma
+
+<span style="margin:0 10px; float:right"><a href="http://rsharma.smugmug.com/photos/i-CFpHKmX/0/M/i-CFpHKmX-M.png" title="Ramesh Sharma profile picture on Smugmug"><img src="http://rsharma.smugmug.com/photos/i-CFpHKmX/0/M/i-CFpHKmX-M.png" width="240" height="160" alt="Ramesh.jpg" /></a></span>
+
+Hands-on software developer and software industry management professional with  experience working in GIS, CAD and AEC companies in the US, India and Singapore with a proven track record in roles ranging from software architect to managing product development teams across geographies and setting up and managing an Offshore Development Center.
+
+Specialties: Technology executive experienced in setting up engineering organizations developing multi-tenanted highly scalable SaaS applications. Hands-on software engineering manager, comfortable in the trenches developing in C++, C#, Java and more. Develop product strategies; plan, manage and deliver software for the desktop, web and cloud. Set up, build and grow engineering teams (development, QA, PM, DevOps) both as a first line as well as senior site/country manager. Work with geographically dispersed teams in matrixed organizations.
+
+h2. About This Site
+
+This site is built using the "Jekyll":http://github.com/mojombo/jekyll library and hosted on "GitHub":http://github.com/.

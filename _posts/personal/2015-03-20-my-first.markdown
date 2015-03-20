@@ -1,0 +1,8 @@
+---
+layout: post
+title: My first post
+---
+Just started to set up my site/blog on github. Making use of a lot of work shared generously by several folks (see the footer for attribution).
+
+Let's see how this looks!
+
